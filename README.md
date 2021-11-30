@@ -1,4 +1,4 @@
 # Platform Infrastructure
 
-This service provisions infrastructure using CloudFormation template 
+This service provisions infrastructure using Terraform template 
 
